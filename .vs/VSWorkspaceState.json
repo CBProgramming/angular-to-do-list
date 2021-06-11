@@ -6,7 +6,9 @@
     "\\src\\app\\components",
     "\\src\\app\\components\\todo-item",
     "\\src\\app\\components\\todos",
-    "\\src\\app\\models"
+    "\\src\\app\\models",
+    "\\src\\app\\services"
   ],
+  "SelectedNode": "\\src\\app\\services\\todo.service.ts",
   "PreviewInSolutionExplorer": false
 }
